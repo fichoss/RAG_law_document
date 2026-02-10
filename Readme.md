@@ -12,7 +12,3 @@ Proyek ini merupakan eksperimen implementasi Retrieval-Augmented Generation (RAG
 - Pencarian berbasis vektor (FAISS)  
 - Question Answering menggunakan model Transformer  
 - Menampilkan sumber halaman dokumen
-- Antarmuka chatbot menggunakan Gradio  
-
-## Bisa dicoba menggunakan link dibawah ini
-https://c8b66f3dc9e6ce90cf.gradio.live
